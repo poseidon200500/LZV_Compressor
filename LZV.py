@@ -1,3 +1,4 @@
+# export PROMPT_DIRTRIM=1
 string = "aaabcbbacbcabccbbacbcabcbcbbacbcabccbbacb"
 codes = {}
 alphabet = "0123456789ABCDEFGHIJKLMNOPQRTSUVWXYZ" #36-ая система
